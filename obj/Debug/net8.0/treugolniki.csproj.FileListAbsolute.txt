@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\bin\Debug\net8.0\treugolniki.exe
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\bin\Debug\net8.0\treugolniki.deps.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\bin\Debug\net8.0\treugolniki.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\bin\Debug\net8.0\treugolniki.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\bin\Debug\net8.0\treugolniki.pdb
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.sourcelink.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\refint\treugolniki.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.pdb
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\treugolniki.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\treugolniki\obj\Debug\net8.0\ref\treugolniki.dll
